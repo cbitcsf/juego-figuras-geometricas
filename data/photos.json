@@ -1,0 +1,46 @@
+[
+    {
+        "image": "../assets/circulo.jpg",
+        "name": "circulo"
+    },
+    {
+        "image": "../assets/heptagono.jpg",
+        "name": "heptagono"
+    },
+    {
+        "image": "../assets/hexagono.jpg",
+        "name": "hexagono"
+    },
+    {
+        "image": "../assets/pentagono.jpg",
+        "name": "pentagono"
+    },
+    {
+        "image": "../assets/pentagono1.jpg",
+        "name": "pentagono1"
+    },
+    {
+        "image": "../assets/trapecio.jpg",
+        "name": "trapecio"
+    },
+    {
+        "image": "../assets/triangulo.jpg",
+        "name": "triangulo"
+    },
+    {
+        "image": "../assets/cuadrado.jpg",
+        "name": "cuadrado"
+    },
+    {
+        "image": "../assets/eneagono.jpg",
+        "name": "eneagono"
+    },
+    {
+        "image": "../assets/octogono.jpg",
+        "name": "octogono"
+    },
+    {
+        "image": "../assets/rectangulo.jpg",
+        "name": "rectangulo"
+    }
+]
